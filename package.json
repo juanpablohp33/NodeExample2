@@ -1,0 +1,24 @@
+{
+  "name": "nodeexample2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2-arrow-function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpablohp33/NodeExample2.git"
+  },
+  "author": "Juan Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanpablohp33/NodeExample2/issues"
+  },
+  "homepage": "https://github.com/juanpablohp33/NodeExample2#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "validator": "^10.11.0",
+    "yargs": "^13.2.2"
+  }
+}
